@@ -1,0 +1,49 @@
+.logoimg {
+    height: 50px;
+    margin-left: 25px;
+    z-index: 2;
+    position: relative;
+
+}
+
+.logotext {
+    margin-top: 15px;
+}
+
+.logodiv {
+    display: flex;
+    border-radius: 50px;
+}
+
+.links {
+    border-radius: 50px;
+}
+
+.links > button {
+    display: inline-flex;
+   
+    
+    margin-right: 25px;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    transition: all 0.5s;
+}
+
+.links > button:hover {
+    background-color: #f5e4c4;
+}
+
+
+.navbar {
+    height: auto;
+    border: 2px solid black;
+    border-radius: 50px;
+    font-size: 18px;
+    z-index: 1;
+    position: relative;
+    
+    
+}
