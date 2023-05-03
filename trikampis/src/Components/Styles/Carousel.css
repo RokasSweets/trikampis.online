@@ -1,18 +1,32 @@
-.carousel {
-
-    border-radius: 25px;
+.slide {
+    margin-top: 25px;
+    height: 400px;
+    background-size: cover;
+    border-radius: 15px;
 }
 
-.carousel > img {
-    width: 100%;
-    height: 600px;
-    border-radius: 23px;
-    object-fit: cover;
-    margin-top: px;
-}
-
-.carousel > h1 {
+.slide > h1 {
+    color:  lightgoldenrodyellow;
+    margin-top: 150px;
+    background: none;
     text-align: center;
-    margin-top: -325px;
-    color: antiquewhite;
+}
+
+.slide > p {
+    color:  lightgoldenrodyellow;
+    background: none;
+    text-align: center;
+    font-weight: 100;
+}
+
+
+
+.first {
+background-image: url(../../Images/carousel.webp);
+background-position: 1px;
+}
+
+.second {
+    background-image: url(../../Images/carouselgif.webp);
+    background-position: 1px;
 }
