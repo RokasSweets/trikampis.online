@@ -4,7 +4,7 @@ import logo from '../Images/logo.png'
 function NavBar() {
   return (
     <div className='navbar col-12'>
-        <div className='logodiv col-2'>
+        <div className='logodiv col-2 m-auto'>
 <img className='logoimg' src={logo} alt="logo" />
 <p className='logotext'>TRIKAMPIS.ONLINE</p>
         </div>

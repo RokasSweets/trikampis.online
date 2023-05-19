@@ -1,0 +1,28 @@
+.line {
+    border: 1px solid rgba(0, 0, 0, .5);
+}
+
+.footer {
+    
+}
+
+.footer-left {
+    display: flex;
+}
+
+.footer-logo {
+    height: 40px;
+}
+
+.footer-text {
+    font-size: 14px;
+    display: inline;
+    margin-left: -5px;
+    
+
+}
+
+.copyright {
+    text-align: center;
+    font-size: 14px;
+}
