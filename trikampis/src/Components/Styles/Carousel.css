@@ -6,17 +6,21 @@
 }
 
 .slide > h1 {
-    color:  lightgoldenrodyellow;
+    color:  #fbf28d;
     margin-top: 150px;
     background: none;
     text-align: center;
 }
 
 .slide > p {
-    color:  lightgoldenrodyellow;
+    color:   #fbf28d;
     background: none;
     text-align: center;
     font-weight: 100;
+}
+
+.main-carousel {
+    background-color: rgba(248, 231, 28, 0.5);
 }
 
 

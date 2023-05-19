@@ -3,26 +3,30 @@
     margin-left: 25px;
     z-index: 2;
     position: relative;
-
+    background-color: transparent;
 }
 
 .logotext {
     margin-top: 15px;
+    background-color: transparent;
 }
 
 .logodiv {
     display: flex;
-    border-radius: 50px;
+    color: black;
+    background-color: transparent;
+    float: inline-end;
 }
 
 .links {
     border-radius: 50px;
+    background-color: transparent;
 }
 
 .links > button {
     display: inline-flex;
-   
-    
+    color: black;
+    background-color: transparent;
     margin-right: 25px;
     border: none;
     border-radius: 10px;
@@ -34,16 +38,17 @@
 
 .links > button:hover {
     background-color: #f5e4c4;
+    color: black;
 }
 
 
 .navbar {
     height: auto;
-    border: 2px solid black;
-    border-radius: 50px;
     font-size: 18px;
     z-index: 1;
     position: relative;
+    background: #fff47e;
+    box-shadow: 0px 3px 20px  rgba(0, 0, 0, .5);
     
     
 }
