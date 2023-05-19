@@ -3,11 +3,7 @@
 }
 
 .footer {
-    
-}
-
-.footer-left {
-    display: flex;
+display: flex;
 }
 
 .footer-logo {
@@ -22,7 +18,21 @@
 
 }
 
+.right-footer > h4 {
+    margin-bottom: 25px;
+}
+
+.links {
+    line-height: 10px;
+}
+
 .copyright {
     text-align: center;
     font-size: 14px;
+    display: block;
+}
+
+.eco {
+    margin-top: -20px;
+    height: 55px;
 }
