@@ -19,7 +19,7 @@ function Footer() {
         </div>
       </div>
       <div className="line col-8 m-auto mt-2"></div>
-      <div className="copyright col-12 mt-2">
+      <div className="copyright col-12 mt-3">
           <p>
             © 2023. Svetainė talpinama Cometa.lt serveriuose, kurie naudoja
             energiją gaunamą iš saulės.{" "}
